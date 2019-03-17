@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "774285832427",
+    "firebase_url": "https://contactform-700a9.firebaseio.com",
+    "project_id": "contactform-700a9",
+    "storage_bucket": "contactform-700a9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:774285832427:android:def3ce928d02876b",
+        "android_client_info": {
+          "package_name": "project0.doctorsprescriptor"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "774285832427-dnkdg4emfgb4rbiof0hiee7vme7q0vcm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBV0fxnjLghPC3Vq7QeVV0KzqgfTqbxqmg"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
